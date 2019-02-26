@@ -21,6 +21,7 @@ public class Author {
     public Author(String firstName, String lastName) {
         this.firstName = firstName;
         this.lastName = lastName;
+        //TODO
     }
 
     public Author(String firstName, String lastName, Set<Book> books) {
